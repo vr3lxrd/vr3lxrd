@@ -9,7 +9,7 @@ Resumo de algumas das principais tecnologias que eu já experimentei e tenho dom
 	 - Express.js
 	 - Next.js
 	 - Discord.js
-	 - React
+	 - Angular
 	 - Gulp.js
  - **HTML/CSS**
 	 - Sass
