@@ -23,3 +23,4 @@ Resumo de algumas das principais tecnologias que eu já experimentei e tenho dom
 	 - Ruby on Rails
 - **Banco de dados**
 	- SQLite3 - SQL
+	- MongoDB
