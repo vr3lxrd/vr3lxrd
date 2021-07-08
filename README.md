@@ -4,15 +4,22 @@ Sou apaixonado por estatística 📈, computação 🖥️ e mercado financeiro 
 ## 🖥️ O que eu já estudei/fiz projetos
 Resumo de algumas das principais tecnologias que eu já experimentei.
 
+ - **Java**
+ 	 - SpringBoot
+ 	 - Quarkus
+ - **AWS**
+ 	 - Lambda
+ 	 - EKS
+ 	 - EC2
+ 	 - Outros 
+ - **Ruby**
+	 - Ruby on Rails
  - **Javascript(ES5 e ES6)**
 	 - Node.js
 	 - Express.js
 	 - Next.js
 	 - Discord.js
-	 - Gulp.js
 	 - React
-	 - Vue
-	 - Angular
  - **HTML/CSS**
 	 - Sass
 	 - Bootstrap
@@ -20,8 +27,7 @@ Resumo de algumas das principais tecnologias que eu já experimentei.
  - **Python**
 	 - Data science
 	 - Flask
- - **Ruby**
-	 - Ruby on Rails
 - **Banco de dados**
-	- SQLite3 - SQL
+	- SQLite3
+	- Postgres
 	- MongoDB
