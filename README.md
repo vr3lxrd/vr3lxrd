@@ -1,5 +1,6 @@
 ## 💜 Sobre mim
 Itaú Software Engineer
+
 UFABC BC&T Student
 ## 🖥️ O que eu já estudei/fiz projetos
 Resumo de algumas das principais tecnologias que eu já experimentei.
