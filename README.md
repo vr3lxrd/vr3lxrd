@@ -1,6 +1,6 @@
 ## 💜 Sobre mim
-Prazer, meu nome é Vinicius e sou estudante, atualmente curso bacharelado em ciência & tecnologia na Universidade Federal do ABC. Trabalho como Engenheiro de Software e pretendo cursar Ciência da Computação
-Sou apaixonado por estatística 📈, computação 🖥️ e mercado financeiro 🏦.
+Itaú Software Engineer
+UFABC BC&T Student
 ## 🖥️ O que eu já estudei/fiz projetos
 Resumo de algumas das principais tecnologias que eu já experimentei.
 
